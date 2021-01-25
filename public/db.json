@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Apple MacBook Air 13",
+      "type": "Laptop",
+      "imageUrl": "https://hotline.ua/img/tx/242/242522584_s265.jpg",
+      "price": 1300,
+      "category": 0
+    },
+    {
+      "id": 1,
+      "name": "Bosch WAN28162UA",
+      "type": "Washing machine",
+      "imageUrl": "https://hotline.ua/img/tx/261/2613776395.jpg",
+      "price": 400,
+      "category": 1
+    },
+    {
+      "id": 2,
+      "name": "Bosch KGN39UL316",
+      "type": "Refrigerator",
+      "imageUrl": "https://hotline.ua/img/tx/238/2388798955.jpg",
+      "price": 550,
+      "category": 2
+    },
+    {
+      "id": 3,
+      "name": "Grunhelm GDW 556 W",
+      "type": "Dishwasher",
+      "imageUrl": "https://hotline.ua/img/tx/261/2615609855.jpg",
+      "price": 260,
+      "category": 2
+    },
+    {
+      "id": 4,
+      "name": "Bosch BWD41740",
+      "type": "Vacuum cleaner",
+      "imageUrl": "https://hotline.ua/img/tx/238/2387847405.jpg",
+      "price": 310,
+      "category": 4
+    },
+    {
+      "id": 5,
+      "name": "Delonghi Autentica",
+      "type": "Coffee machine",
+      "imageUrl": "https://hotline.ua/img/tx/180/1806029455.jpg",
+      "price": 254,
+      "category": 3
+    },
+    {
+      "id": 6,
+      "name": "BaBylissPRO",
+      "type": "Hair Dryer",
+      "imageUrl": "https://hotline.ua/img/tx/886/8862705.jpg",
+      "price": 55,
+      "category": 1
+    },
+    {
+      "id": 7,
+      "name": "Royal Flame Dioramic",
+      "type": "Fireplace",
+      "imageUrl": "https://hotline.ua/img/tx/247/2471855185.jpg",
+      "price": 246,
+      "category": 0
+    },
+    {
+      "id": 8,
+      "name": "Xiaomi Enchen BlackStone",
+      "type": "Electric razor",
+      "imageUrl": "https://hotline.ua/img/tx/203/2037076765.jpg",
+      "price": 25,
+      "category": 3
+    }
+  ]
+}
